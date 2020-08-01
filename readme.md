@@ -1,0 +1,1 @@
+This repository contains codes related to openGL written in C++ creating beautiful graphics.
